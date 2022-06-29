@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"A new friend",
+			"baby",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Murder Machine",
+			"baby",
+			[
+				146,
+				53,
+				253
+			]
+		],
+		[
+			"Robotic Fusion",
+			"enn",
+			[
+				46,
+				0,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"baby",
+		"bf",
+		"gf"
+	],
+	"storyName": "Circus baby",
+	"weekName": "Baby Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

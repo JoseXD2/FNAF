@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ennard jumpscare.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ennard jumpscare0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0002" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0003" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0004" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0005" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0006" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0007" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0008" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0009" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0010" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0011" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0012" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0013" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0014" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0015" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0016" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0017" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0018" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0019" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0020" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0021" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0022" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0023" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0024" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0025" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0026" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0027" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0028" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0029" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0030" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0031" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0032" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0033" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0034" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0035" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0036" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0037" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0038" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0039" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0040" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0041" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0042" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0043" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0044" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0045" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0046" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0047" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0048" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0049" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0050" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0051" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0052" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0053" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0054" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0055" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0056" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0057" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0058" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="ennard jumpscare0059" x="6400" y="2160" width="1280" height="720"/>
+</TextureAtlas>

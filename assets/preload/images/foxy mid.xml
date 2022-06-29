@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="foxy mid.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="foxy mid0000" x="0" y="0" width="567" height="647" frameX="-1" frameY="-17" frameWidth="569" frameHeight="664"/>
+	<SubTexture name="foxy mid0001" x="567" y="0" width="567" height="655" frameX="-2" frameY="-9" frameWidth="569" frameHeight="664"/>
+	<SubTexture name="foxy mid0002" x="1134" y="0" width="567" height="656" frameX="-2" frameY="-8" frameWidth="569" frameHeight="664"/>
+	<SubTexture name="foxy mid0003" x="0" y="656" width="567" height="664" frameX="0" frameY="0" frameWidth="569" frameHeight="664"/>
+	<SubTexture name="foxy mid0004" x="567" y="656" width="564" height="639" frameX="-4" frameY="-25" frameWidth="569" frameHeight="664"/>
+	<SubTexture name="foxy mid0005" x="1131" y="656" width="567" height="642" frameX="-1" frameY="-22" frameWidth="569" frameHeight="664"/>
+	<SubTexture name="foxy mid0006" x="0" y="1320" width="567" height="650" frameX="-2" frameY="-14" frameWidth="569" frameHeight="664"/>
+	<SubTexture name="foxy mid0007" x="567" y="1320" width="567" height="611" frameX="-2" frameY="-53" frameWidth="569" frameHeight="664"/>
+	<SubTexture name="foxy mid0008" x="1134" y="1320" width="567" height="655" frameX="0" frameY="-9" frameWidth="569" frameHeight="664"/>
+	<SubTexture name="foxy mid0009" x="1134" y="1320" width="567" height="655" frameX="0" frameY="-9" frameWidth="569" frameHeight="664"/>
+</TextureAtlas>

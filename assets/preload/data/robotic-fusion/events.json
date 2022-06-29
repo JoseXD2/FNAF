@@ -1,0 +1,319 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "scooper",
+		"player1": "BF-scooper",
+		"player2": "ennard",
+		"player3": null,
+		"events": [
+			[
+				5625,
+				[
+					[
+						"BG Animation",
+						"hide3",
+						""
+					]
+				]
+			],
+			[
+				5742.1875,
+				[
+					[
+						"BG Animation",
+						"hide3",
+						""
+					]
+				]
+			],
+			[
+				39140.625,
+				[
+					[
+						"DodgeEventScooper",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				39375,
+				[
+					[
+						"Image Flash",
+						"redbg",
+						"0.3"
+					]
+				]
+			],
+			[
+				39389.6484375,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				40546.875,
+				[
+					[
+						"BG Animation",
+						"hide",
+						""
+					]
+				]
+			],
+			[
+				80390.625,
+				[
+					[
+						"DodgeEventScooper",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				80625,
+				[
+					[
+						"Image Flash",
+						"redbg",
+						"0.4"
+					]
+				]
+			],
+			[
+				80639.6484375,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				81914.0625,
+				[
+					[
+						"BG Animation",
+						"hide",
+						""
+					]
+				]
+			],
+			[
+				105234.375,
+				[
+					[
+						"DodgeEventScooper",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				105468.75,
+				[
+					[
+						"Image Flash",
+						"redbg",
+						"0.4"
+					]
+				]
+			],
+			[
+				105483.3984375,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106582.03125,
+				[
+					[
+						"BG Animation",
+						"hide",
+						""
+					]
+				]
+			],
+			[
+				132890.625,
+				[
+					[
+						"DodgeEventScooper",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				133125,
+				[
+					[
+						"Image Flash",
+						"redbg",
+						"0.4"
+					]
+				]
+			],
+			[
+				133139.6484375,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134414.0625,
+				[
+					[
+						"BG Animation",
+						"hide",
+						""
+					]
+				]
+			],
+			[
+				164765.625,
+				[
+					[
+						"DodgeEventScooper",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"Image Flash",
+						"redbg",
+						"0.4"
+					]
+				]
+			],
+			[
+				165014.6484375,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				166289.0625,
+				[
+					[
+						"BG Animation",
+						"hide",
+						""
+					]
+				]
+			],
+			[
+				179765.625,
+				[
+					[
+						"DodgeEventScooper",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Image Flash",
+						"redbg",
+						"0.4"
+					]
+				]
+			],
+			[
+				180014.6484375,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				181289.0625,
+				[
+					[
+						"BG Animation",
+						"hide",
+						""
+					]
+				]
+			],
+			[
+				194765.625,
+				[
+					[
+						"DodgeEventScooper",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				195000,
+				[
+					[
+						"Image Flash",
+						"redbg",
+						"0.4"
+					]
+				]
+			],
+			[
+				195014.6484375,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				196289.0625,
+				[
+					[
+						"BG Animation",
+						"hide",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 128,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Robotic Fusion"
+	}
+}

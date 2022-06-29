@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacebar mecanics scooper.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spacebar mecanics scooper0000" x="0" y="0" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0001" x="1510" y="0" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0002" x="2973" y="0" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0003" x="4416" y="0" width="1349" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0004" x="5765" y="0" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0005" x="6915" y="0" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0006" x="0" y="1083" width="962" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0007" x="962" y="1083" width="919" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0008" x="1881" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0009" x="2801" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0010" x="3721" y="1083" width="919" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0011" x="4640" y="1083" width="919" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0012" x="5559" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0013" x="6479" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0014" x="0" y="1083" width="962" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0015" x="0" y="2122" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0016" x="1150" y="2122" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0017" x="2300" y="2122" width="1349" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0018" x="3649" y="2122" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0019" x="5092" y="2122" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0020" x="6555" y="2122" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0021" x="0" y="3205" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0022" x="1510" y="3205" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0023" x="2973" y="3205" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0024" x="4416" y="3205" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0025" x="5926" y="3205" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0026" x="0" y="4288" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0027" x="1443" y="4288" width="1349" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0028" x="2792" y="4288" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0029" x="3942" y="4288" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0030" x="0" y="1083" width="962" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0031" x="962" y="1083" width="919" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0032" x="1881" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0033" x="2801" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0034" x="3721" y="1083" width="919" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0035" x="4640" y="1083" width="919" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0036" x="5559" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0037" x="6479" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0038" x="0" y="1083" width="962" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0039" x="0" y="2122" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0040" x="1150" y="2122" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0041" x="2300" y="2122" width="1349" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0042" x="3649" y="2122" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0043" x="5092" y="2122" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0044" x="6555" y="2122" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0045" x="0" y="3205" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0046" x="1510" y="3205" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0047" x="2973" y="3205" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0048" x="4416" y="3205" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0049" x="5926" y="3205" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0050" x="0" y="4288" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0051" x="1443" y="4288" width="1349" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0052" x="2792" y="4288" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0053" x="3942" y="4288" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0054" x="0" y="1083" width="962" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0055" x="962" y="1083" width="919" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0056" x="1881" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0057" x="2801" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0058" x="3721" y="1083" width="919" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0059" x="4640" y="1083" width="919" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0060" x="5559" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0061" x="6479" y="1083" width="920" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0062" x="0" y="1083" width="962" height="1039" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0063" x="0" y="2122" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0064" x="1150" y="2122" width="1150" height="1013" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0065" x="2300" y="2122" width="1349" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0066" x="3649" y="2122" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0067" x="5092" y="2122" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0068" x="6555" y="2122" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0069" x="5092" y="4288" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0070" x="6602" y="4288" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0071" x="0" y="5371" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0072" x="1443" y="5371" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0073" x="2953" y="5371" width="1463" height="1083" frameX="0" frameY="0" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0074" x="4416" y="5371" width="1443" height="1047" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0075" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0076" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0077" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0078" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0079" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0080" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0081" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0082" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0083" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0084" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0085" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0086" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-44" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0087" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0088" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-70" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0089" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0090" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0091" x="0" y="0" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0092" x="0" y="0" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0093" x="0" y="0" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0094" x="0" y="0" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0095" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0096" x="0" y="0" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0097" x="0" y="0" width="1510" height="1083"/>
+	<SubTexture name="spacebar mecanics scooper0098" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+	<SubTexture name="spacebar mecanics scooper0099" x="0" y="0" width="1510" height="1083" frameX="0" frameY="-36" frameWidth="1510" frameHeight="1083"/>
+</TextureAtlas>

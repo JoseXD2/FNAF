@@ -1,0 +1,419 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "sisterlocation2",
+		"player1": "bf-scared-no-gf",
+		"player2": "babytwogf",
+		"player3": null,
+		"events": [
+			[
+				4980.46875,
+				[
+					[
+						"BG Animation",
+						"hide2",
+						""
+					]
+				]
+			],
+			[
+				5742.1875,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"1"
+					]
+				]
+			],
+			[
+				5756.8359375,
+				[
+					[
+						"BG Animation",
+						"hide1",
+						""
+					]
+				]
+			],
+			[
+				5859.375,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				52382.8125,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				53554.6875,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				54257.8125,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				54726.5625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				59414.0625,
+				[
+					[
+						"Image Flash",
+						"whitebg",
+						"5"
+					]
+				]
+			],
+			[
+				80742.1875,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				81679.6875,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				82968.75,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				87539.0625,
+				[
+					[
+						"Image Flash",
+						"whitebg",
+						"5"
+					]
+				]
+			],
+			[
+				99199.21875,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				99375,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				99404.296875,
+				[
+					[
+						"Play Animation",
+						"shock",
+						"2"
+					]
+				]
+			],
+			[
+				122226.5625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				123164.0625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				124101.5625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				128789.0625,
+				[
+					[
+						"Image Flash",
+						"whitebg",
+						"5"
+					]
+				]
+			],
+			[
+				131601.5625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				132539.0625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				133242.1875,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				134414.0625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				135117.1875,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				136523.4375,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				137109.375,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				139101.5625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				140507.8125,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				141445.3125,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				141914.0625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				143320.3125,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				144609.375,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				146132.8125,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				147070.3125,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"5"
+					]
+				]
+			],
+			[
+				151757.8125,
+				[
+					[
+						"Image Flash",
+						"whitebg",
+						"5"
+					]
+				]
+			],
+			[
+				161601.5625,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"1"
+					]
+				]
+			],
+			[
+				161645.5078125,
+				[
+					[
+						"BG Animation",
+						"show1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 128,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Murder Machine"
+	}
+}

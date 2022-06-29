@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_mod.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing 0000" x="0" y="0" width="494" height="467" frameX="-10" frameY="-17" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0001" x="0" y="0" width="494" height="467" frameX="-10" frameY="-17" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0002" x="494" y="0" width="487" height="467" frameX="-15" frameY="-16" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0003" x="981" y="0" width="489" height="468" frameX="-15" frameY="-16" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0004" x="1470" y="0" width="488" height="471" frameX="-16" frameY="-13" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0005" x="1470" y="0" width="488" height="471" frameX="-16" frameY="-13" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0006" x="1958" y="0" width="486" height="473" frameX="-18" frameY="-11" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0007" x="2444" y="0" width="494" height="484" frameX="-10" frameY="0" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0008" x="2444" y="0" width="494" height="484" frameX="-10" frameY="0" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0009" x="2444" y="0" width="494" height="484" frameX="-10" frameY="0" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0010" x="2938" y="0" width="503" height="484" frameX="-1" frameY="0" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0011" x="2938" y="0" width="503" height="484" frameX="-1" frameY="0" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0012" x="2938" y="0" width="503" height="484" frameX="-1" frameY="0" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0013" x="3441" y="0" width="504" height="484" frameX="0" frameY="0" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0014" x="3441" y="0" width="504" height="484" frameX="0" frameY="0" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0015" x="0" y="484" width="497" height="472" frameX="-7" frameY="-12" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0016" x="0" y="484" width="497" height="472" frameX="-7" frameY="-12" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0017" x="497" y="484" width="500" height="473" frameX="-4" frameY="-12" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0018" x="497" y="484" width="500" height="473" frameX="-4" frameY="-12" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0019" x="997" y="484" width="497" height="474" frameX="-7" frameY="-11" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0020" x="997" y="484" width="497" height="474" frameX="-7" frameY="-11" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0021" x="1494" y="484" width="494" height="475" frameX="-10" frameY="-10" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0022" x="1988" y="484" width="465" height="480" frameX="-39" frameY="-5" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0023" x="2453" y="484" width="463" height="480" frameX="-39" frameY="-5" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0024" x="2453" y="484" width="463" height="480" frameX="-39" frameY="-5" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0025" x="2916" y="484" width="463" height="479" frameX="-39" frameY="-6" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0026" x="3379" y="484" width="465" height="479" frameX="-39" frameY="-6" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0027" x="3379" y="484" width="465" height="479" frameX="-39" frameY="-6" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0028" x="0" y="964" width="466" height="479" frameX="-38" frameY="-6" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF Dancing 0029" x="0" y="964" width="466" height="479" frameX="-38" frameY="-6" frameWidth="504" frameHeight="485"/>
+	<SubTexture name="GF anim10000" x="466" y="964" width="466" height="480"/>
+	<SubTexture name="GF anim10001" x="466" y="964" width="466" height="480"/>
+	<SubTexture name="GF anim10002" x="932" y="964" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10003" x="932" y="964" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10004" x="932" y="964" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10005" x="1398" y="964" width="460" height="472" frameX="-6" frameY="-7" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10006" x="1398" y="964" width="460" height="472" frameX="-6" frameY="-7" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10007" x="1858" y="964" width="453" height="480" frameX="-13" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10008" x="1858" y="964" width="453" height="480" frameX="-13" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10009" x="2311" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10010" x="2769" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10011" x="2769" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10012" x="2769" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10013" x="2769" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10014" x="2769" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10015" x="2769" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10016" x="2769" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10017" x="2769" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10018" x="2769" y="964" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10019" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10020" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10021" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10022" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10023" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10024" x="0" y="1444" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10025" x="0" y="1444" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10026" x="0" y="1444" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10027" x="0" y="1444" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10028" x="0" y="1444" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10029" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10030" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10031" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10032" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10033" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10034" x="0" y="1444" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10035" x="0" y="1444" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10036" x="0" y="1444" width="458" height="480" frameX="-8" frameY="0" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10037" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10038" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10039" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10040" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10041" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10042" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10043" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10044" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10045" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10046" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10047" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10048" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10049" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10050" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10051" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10052" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10053" x="3227" y="964" width="458" height="478" frameX="-8" frameY="-2" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10054" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10055" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10056" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10057" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10058" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10059" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10060" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10061" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10062" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10063" x="458" y="1444" width="458" height="477" frameX="-8" frameY="-3" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10064" x="916" y="1444" width="466" height="468" frameX="0" frameY="-12" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10065" x="916" y="1444" width="466" height="468" frameX="0" frameY="-12" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10066" x="1382" y="1444" width="464" height="459" frameX="-2" frameY="-21" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10067" x="1382" y="1444" width="464" height="459" frameX="-2" frameY="-21" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10068" x="1846" y="1444" width="464" height="460" frameX="-2" frameY="-20" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10069" x="1846" y="1444" width="464" height="460" frameX="-2" frameY="-20" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10070" x="1846" y="1444" width="464" height="460" frameX="-2" frameY="-20" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10071" x="2310" y="1444" width="463" height="470" frameX="-3" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10072" x="2310" y="1444" width="463" height="470" frameX="-3" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10073" x="2310" y="1444" width="463" height="470" frameX="-3" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10074" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10075" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10076" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10077" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10078" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10079" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10080" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10081" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10082" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10083" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10084" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10085" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10086" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10087" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10088" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10089" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10090" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10091" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10092" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10093" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+	<SubTexture name="GF anim10094" x="2773" y="1444" width="466" height="470" frameX="0" frameY="-10" frameWidth="466" frameHeight="480"/>
+</TextureAtlas>

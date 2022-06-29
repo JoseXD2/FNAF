@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scooper attack.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scooper attack0000" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0001" x="817" y="0" width="1067" height="474" frameX="-513" frameY="-89" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0002" x="1884" y="0" width="1358" height="304" frameX="-222" frameY="-217" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0003" x="0" y="521" width="1526" height="304" frameX="-54" frameY="-217" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0004" x="1526" y="521" width="1580" height="310" frameX="0" frameY="-211" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0005" x="0" y="831" width="1569" height="345" frameX="-11" frameY="-176" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0006" x="1569" y="831" width="1558" height="389" frameX="-22" frameY="-132" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0007" x="0" y="1220" width="1476" height="455" frameX="-104" frameY="-66" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0008" x="1476" y="1220" width="1284" height="473" frameX="-296" frameY="-48" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0009" x="2760" y="1220" width="1106" height="420" frameX="-474" frameY="-101" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0010" x="0" y="1693" width="1006" height="421" frameX="-590" frameY="-100" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0011" x="1006" y="1693" width="969" height="450" frameX="-627" frameY="-71" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0012" x="1975" y="1693" width="901" height="489" frameX="-695" frameY="-32" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0013" x="2876" y="1693" width="843" height="501" frameX="-753" frameY="-20" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0014" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0015" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0016" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0017" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0018" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0019" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0020" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0021" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0022" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0023" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0024" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0025" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0026" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0027" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0028" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0029" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0030" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0031" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0032" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0033" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0034" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0035" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0036" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0037" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0038" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0039" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0040" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0041" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0042" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0043" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0044" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0045" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0046" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+	<SubTexture name="scooper attack0047" x="0" y="0" width="817" height="521" frameX="-779" frameY="0" frameWidth="1596" frameHeight="563"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacebar1.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spacebar scooper0000" x="0" y="0" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0001" x="745" y="0" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0002" x="1490" y="0" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0003" x="2235" y="0" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0004" x="2980" y="0" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0005" x="0" y="787" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0006" x="745" y="787" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0007" x="1490" y="787" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0008" x="2235" y="787" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0009" x="2980" y="787" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0010" x="0" y="1574" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0011" x="745" y="1574" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0012" x="1490" y="1574" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0013" x="2235" y="1574" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0014" x="2980" y="1574" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0015" x="0" y="2361" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0016" x="745" y="2361" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0017" x="1490" y="2361" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0018" x="2235" y="2361" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0019" x="2980" y="2361" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0020" x="0" y="3148" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0021" x="745" y="3148" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+	<SubTexture name="spacebar scooper0022" x="1490" y="3148" width="745" height="787"/>
+	<SubTexture name="spacebar scooper0023" x="2235" y="3148" width="745" height="786" frameX="0" frameY="-1" frameWidth="745" frameHeight="787"/>
+</TextureAtlas>

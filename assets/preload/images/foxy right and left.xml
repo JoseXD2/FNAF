@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="foxy right and left.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="foxy right and left0000" x="0" y="0" width="530" height="694" frameX="0" frameY="-15" frameWidth="549" frameHeight="717"/>
+	<SubTexture name="foxy right and left0001" x="530" y="0" width="527" height="692" frameX="-8" frameY="-18" frameWidth="549" frameHeight="717"/>
+	<SubTexture name="foxy right and left0002" x="1057" y="0" width="501" height="699" frameX="-9" frameY="-12" frameWidth="549" frameHeight="717"/>
+	<SubTexture name="foxy right and left0003" x="1558" y="0" width="529" height="716" frameX="-20" frameY="-1" frameWidth="549" frameHeight="717"/>
+	<SubTexture name="foxy right and left0004" x="2087" y="0" width="531" height="692" frameX="-7" frameY="-23" frameWidth="549" frameHeight="717"/>
+	<SubTexture name="foxy right and left0005" x="2618" y="0" width="527" height="715" frameX="-4" frameY="0" frameWidth="549" frameHeight="717"/>
+	<SubTexture name="foxy right and left0006" x="3145" y="0" width="501" height="714" frameX="-5" frameY="-1" frameWidth="549" frameHeight="717"/>
+</TextureAtlas>

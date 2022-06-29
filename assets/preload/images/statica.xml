@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="statica.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="statica0000" x="0" y="0" width="1280" height="800"/>
+	<SubTexture name="statica0001" x="1280" y="0" width="1280" height="800"/>
+	<SubTexture name="statica0002" x="2560" y="0" width="1280" height="800"/>
+	<SubTexture name="statica0003" x="0" y="800" width="1280" height="800"/>
+	<SubTexture name="statica0004" x="1280" y="800" width="1280" height="800"/>
+	<SubTexture name="statica0005" x="2560" y="800" width="1280" height="800"/>
+	<SubTexture name="statica0006" x="0" y="1600" width="1280" height="800"/>
+	<SubTexture name="statica0007" x="1280" y="1600" width="1280" height="800"/>
+	<SubTexture name="statica0008" x="2560" y="1600" width="1280" height="800"/>
+	<SubTexture name="statica0009" x="0" y="2400" width="1280" height="800"/>
+	<SubTexture name="statica0010" x="1280" y="2400" width="1280" height="800"/>
+</TextureAtlas>

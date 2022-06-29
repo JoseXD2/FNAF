@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "sisterlocation",
+		"player1": "bf",
+		"player2": "baby",
+		"player3": null,
+		"events": [
+			[
+				122500,
+				[
+					[
+						"BG Animation",
+						"blackbg",
+						"1"
+					]
+				]
+			],
+			[
+				122666.666666667,
+				[
+					[
+						"BG Animation",
+						"blackbg",
+						"1"
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"1"
+					]
+				]
+			],
+			[
+				153333.333333333,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"1"
+					]
+				]
+			],
+			[
+				154000,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"1"
+					]
+				]
+			],
+			[
+				154500,
+				[
+					[
+						"Image Flash",
+						"blackbg",
+						"1"
+					]
+				]
+			],
+			[
+				155500,
+				[
+					[
+						"Play Animation",
+						"anim1",
+						"GF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-mod",
+		"bpm": 90,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "A new friend"
+	}
+}

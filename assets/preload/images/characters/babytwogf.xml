@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="babytwogf.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="baby control shock0000" x="0" y="0" width="699" height="983" frameX="-94" frameY="-22" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0001" x="699" y="0" width="765" height="923" frameX="-73" frameY="-79" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0002" x="1464" y="0" width="726" height="1007" frameX="-58" frameY="-11" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0003" x="1464" y="0" width="726" height="1007" frameX="-58" frameY="-11" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0004" x="2190" y="0" width="756" height="985" frameX="-37" frameY="-16" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0005" x="2946" y="0" width="743" height="1001" frameX="-52" frameY="0" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0006" x="3689" y="0" width="740" height="1000" frameX="-53" frameY="-3" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0007" x="3689" y="0" width="740" height="1000" frameX="-53" frameY="-3" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0008" x="4429" y="0" width="772" height="968" frameX="-35" frameY="-33" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0009" x="5201" y="0" width="783" height="969" frameX="-28" frameY="-32" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0010" x="5984" y="0" width="806" height="977" frameX="-29" frameY="-24" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0011" x="5984" y="0" width="806" height="977" frameX="-29" frameY="-24" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0012" x="6790" y="0" width="787" height="966" frameX="-33" frameY="-35" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0013" x="0" y="1007" width="782" height="968" frameX="-34" frameY="-33" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0014" x="782" y="1007" width="777" height="965" frameX="-35" frameY="-36" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0015" x="782" y="1007" width="777" height="965" frameX="-35" frameY="-36" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0016" x="782" y="1007" width="777" height="965" frameX="-35" frameY="-36" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0017" x="1559" y="1007" width="774" height="959" frameX="-33" frameY="-42" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0018" x="2333" y="1007" width="791" height="965" frameX="-24" frameY="-36" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0019" x="3124" y="1007" width="817" height="959" frameX="-4" frameY="-42" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0020" x="3941" y="1007" width="808" height="960" frameX="0" frameY="-41" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0021" x="4749" y="1007" width="808" height="960" frameX="0" frameY="-41" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0022" x="5557" y="1007" width="803" height="963" frameX="-7" frameY="-38" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0023" x="6360" y="1007" width="801" height="965" frameX="-8" frameY="-36" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0024" x="7161" y="1007" width="808" height="981" frameX="-4" frameY="-20" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0025" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0026" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0027" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0028" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0029" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0030" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0031" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0032" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0033" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0034" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0035" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0036" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0037" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0038" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0039" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0040" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0041" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0042" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0043" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0044" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0045" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0046" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby control shock0047" x="0" y="1988" width="795" height="971" frameX="-13" frameY="-30" frameWidth="838" frameHeight="1018"/>
+	<SubTexture name="baby down note0000" x="795" y="1988" width="700" height="987" frameX="0" frameY="-20" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0001" x="795" y="1988" width="700" height="987" frameX="0" frameY="-20" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0002" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0003" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0004" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0005" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0006" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0007" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0008" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0009" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0010" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0011" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0012" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0013" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby down note0014" x="1495" y="1988" width="695" height="1005" frameX="0" frameY="0" frameWidth="700" frameHeight="1007"/>
+	<SubTexture name="baby idle0000" x="2190" y="1988" width="653" height="984" frameX="-6" frameY="-25" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0001" x="2190" y="1988" width="653" height="984" frameX="-6" frameY="-25" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0002" x="2843" y="1988" width="664" height="986" frameX="0" frameY="-23" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0003" x="2843" y="1988" width="664" height="986" frameX="0" frameY="-23" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0004" x="3507" y="1988" width="660" height="990" frameX="-13" frameY="-21" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0005" x="3507" y="1988" width="660" height="990" frameX="-13" frameY="-21" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0006" x="4167" y="1988" width="656" height="1011" frameX="-27" frameY="0" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0007" x="4167" y="1988" width="656" height="1011" frameX="-27" frameY="0" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0008" x="4823" y="1988" width="656" height="1011" frameX="-27" frameY="0" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0009" x="5479" y="1988" width="656" height="1011" frameX="-27" frameY="0" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0010" x="6135" y="1988" width="656" height="1011" frameX="-27" frameY="0" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0011" x="6135" y="1988" width="656" height="1011" frameX="-27" frameY="0" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0012" x="6135" y="1988" width="656" height="1011" frameX="-27" frameY="0" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0013" x="6135" y="1988" width="656" height="1011" frameX="-27" frameY="0" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby idle0014" x="6135" y="1988" width="656" height="1011" frameX="-27" frameY="0" frameWidth="683" frameHeight="1011"/>
+	<SubTexture name="baby left note0000" x="6791" y="1988" width="654" height="1005" frameX="0" frameY="0" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0001" x="6791" y="1988" width="654" height="1005" frameX="0" frameY="0" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0002" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0003" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0004" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0005" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0006" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0007" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0008" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0009" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0010" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0011" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0012" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0013" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby left note0014" x="7445" y="1988" width="649" height="1001" frameX="-8" frameY="-4" frameWidth="657" frameHeight="1005"/>
+	<SubTexture name="baby right note0000" x="0" y="2999" width="646" height="997" frameX="-8" frameY="0" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0001" x="0" y="2999" width="646" height="997" frameX="-8" frameY="0" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0002" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0003" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0004" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0005" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0006" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0007" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0008" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0009" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0010" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0011" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0012" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0013" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby right note0014" x="646" y="2999" width="649" height="996" frameX="0" frameY="-2" frameWidth="654" frameHeight="998"/>
+	<SubTexture name="baby up note0000" x="1295" y="2999" width="708" height="1038" frameX="-8" frameY="0" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0001" x="1295" y="2999" width="708" height="1038" frameX="-8" frameY="0" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0002" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0003" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0004" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0005" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0006" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0007" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0008" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0009" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0010" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0011" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0012" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0013" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+	<SubTexture name="baby up note0014" x="2003" y="2999" width="710" height="1025" frameX="0" frameY="-12" frameWidth="716" frameHeight="1038"/>
+</TextureAtlas>
